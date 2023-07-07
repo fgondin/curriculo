@@ -1,0 +1,32 @@
+*{
+    text-align: center;
+}
+
+body{
+    text-align: center;
+    margin-left: 50vh;
+}
+
+.content{
+    background-color: rgb(32, 32, 32);
+    color: snow;
+    text-align: center;
+    height: 95vh;
+    width: 80vh;
+    border-radius: 6vh;
+}
+
+hr{
+    height: 4vh;
+    background-color: rgb(231, 120, 29);
+    border-color: black;
+}
+
+h1{
+    color: rgb(231,120,29);
+}
+
+ul{
+    list-style-type: none;
+    margin-right: 60px;
+}
